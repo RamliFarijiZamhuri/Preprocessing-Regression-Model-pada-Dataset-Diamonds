@@ -1,10 +1,10 @@
-# 🎯 Penjelasan Kode & Tujuan Proyek (Diamonds Dataset)
+# Penjelasan Kode & Tujuan Proyek (Diamonds Dataset)
 
 Dokumen ini berisi penjelasan lengkap mengenai alur kerja, tujuan, dan rincian setiap bagian kode yang digunakan dalam analisis serta penyiapan data (*data preprocessing*) pada dataset harga berlian (`train_Diamonds.csv`).
 
 ---
 
-## 📌 Untuk Apa Kode Ini?
+## Untuk Apa Kode Ini?
 
 Kode ini digunakan untuk **Data Preprocessing (Pembersihan & Penyiapan Data)**. 
 
@@ -12,7 +12,7 @@ Tujuan utamanya adalah mengubah data mentah (*raw data*) berlian—yang mungkin 
 
 ---
 
-## 📝 Penjelasan Detail Alur dan Fungsi Kode
+## Penjelasan Detail Alur dan Fungsi Kode
 
 ### 1. Import Library
 * **Fungsi Kode:** `import pandas as pd`, `import numpy as np`, `import seaborn as sns`, `import matplotlib.pyplot as plt`, `from sklearn.preprocessing import StandardScaler`
