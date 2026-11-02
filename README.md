@@ -189,7 +189,7 @@ MAE dan RMSE bergantung skala, jadi tidak punya ambang universal. Untuk membandi
 | Rating | RSR | NSE (≈ R² pada data uji) |
 |--------|-----|--------------------------|
 | Very good | 0,00 – 0,50 | 0,75 – 1,00 |
-| Good | 0,50 – 0,60 | 0,65 – 0,75 |
+| Good | 0,50 – 0,60 | 0,65 – 0,75 |_
 | Satisfactory | 0,60 – 0,70 | 0,50 – 0,65 |
 | Unsatisfactory | > 0,70 | < 0,50 |
 
@@ -227,4 +227,3 @@ MAE dan RMSE bergantung skala, jadi tidak punya ambang universal. Untuk membandi
 - Acharya & Senapati (2024), Springer, membandingkan Random Forest, KNN, dan Decision Tree seperti notebook Anda: https://econpapers.repec.org/RePEc:spr:sprchp:978-981-99-8472-5_8
 - Zhang (2024), SciTePress: https://scitepress.org/PublishedPapers/2024/128185
 - Basha et al. (2023), IEEE ICONAT: https://archives.christuniversity.in/items/show/20018
-- Mohd Azmi (2025), skripsi UiTM, bobotnya lebih rendah karena bukan jurnal: https://ir.uitm.edu.my/id/eprint/115275
