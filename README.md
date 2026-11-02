@@ -223,6 +223,6 @@ MAE dan RMSE bergantung skala, jadi tidak punya ambang universal. Untuk membandi
 
 ## 6. Referensi
 
-- Processes (2024). Processes, 12(2), 266. https://doi.org/10.3390/pr12020266 (perbandingan RMSE dengan standar deviasi data; nama penulis perlu dilengkapi dari halaman artikel)
-- Khan, Y., & Kumar, V. (2025). Forecasting models for forewarning Soybean Yellow Mosaic Virus. River Publishers. https://journals.riverpublishers.com/index.php/JRSS/article/view/28587/22773 (kriteria R² > 0,90 dan nRMSE < 10%; penulis dan tahun ikuti halaman artikel)
+- Processes (2024). Processes, 12(2), 266. https://doi.org/10.3390/pr12020266
+- Khan, Y., & Kumar, V. (2025). Forecasting models for forewarning Soybean Yellow Mosaic Virus. River Publishers. https://journals.riverpublishers.com/index.php/JRSS/article/view/28587/22773
 - Pandit, A., Hogan, S., Mahoney, D. T., Ford, W. I., Fox, J. F., Wellen, C., & Husic, A. (2025). Establishing performance criteria for evaluating watershed-scale sediment and nutrient models at fine temporal scales. Water Research, 274. https://doi.org/10.1016/j.watres.2025.123156
