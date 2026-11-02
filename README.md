@@ -223,7 +223,7 @@ MAE dan RMSE bergantung skala, jadi tidak punya ambang universal. Untuk membandi
 
 ## 6. Referensi
 
-- Kigo et al. (2023), Scientific Reports, paper jurnal paling kuat untuk topik ini: https://pubmed.ncbi.nlm.nih.gov/37828360/
-- Acharya & Senapati (2024), Springer, membandingkan Random Forest, KNN, dan Decision Tree seperti notebook Anda: https://econpapers.repec.org/RePEc:spr:sprchp:978-981-99-8472-5_8
+- Kigo et al. (2023), Scientific Reports : https://pubmed.ncbi.nlm.nih.gov/37828360/
+- Acharya & Senapati (2024), Springer, membandingkan Random Forest, KNN, dan Decision Tree: https://econpapers.repec.org/RePEc:spr:sprchp:978-981-99-8472-5_8
 - Zhang (2024), SciTePress: https://scitepress.org/PublishedPapers/2024/128185
 - Basha et al. (2023), IEEE ICONAT: https://archives.christuniversity.in/items/show/20018
