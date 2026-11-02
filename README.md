@@ -223,7 +223,7 @@ MAE dan RMSE bergantung skala, jadi tidak punya ambang universal. Untuk membandi
 
 ## 6. Referensi
 
-- Kigo et al. (2023), Scientific Reports : https://pubmed.ncbi.nlm.nih.gov/37828360/
-- Acharya & Senapati (2024), Springer, membandingkan Random Forest, KNN, dan Decision Tree: https://econpapers.repec.org/RePEc:spr:sprchp:978-981-99-8472-5_8
-- Zhang (2024), SciTePress: https://scitepress.org/PublishedPapers/2024/128185
-- Basha et al. (2023), IEEE ICONAT: https://archives.christuniversity.in/items/show/20018
+- Santoso & Riti (2026), Jurnal Teknologika 16(1), Random Forest vs LightGBM: https://jurnal.wastu.digital/index.php/teknologika/article/view/685
+- Fajar, skripsi UIN Sunan Gunung Djati Bandung, Random Forest vs KNN vs AdaBoost, abstrak: https://digilib.uinsgd.ac.id/73390/2/2_abstrak.pdf
+- Kemungkinan versi artikel dari skripsi di atas, dengan R² Random Forest 0,981 dan KNN 0,964: https://www.bohrium.com/scholar/127042l7/Rahmdani_711
+- Rini (2022), laporan proyek Institut Teknologi Telkom Purwokerto, CRISP-DM dan Random Forest: https://repository.ittelkom-pwt.ac.id/8530/
